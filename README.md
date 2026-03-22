@@ -19,8 +19,6 @@ Cryptographically secure. Fully client-side. Stunningly beautiful.
 
 <br/>
 
-![PassForge Preview](https://pass-forge-six.vercel.app/og-preview.png)
-
 > 🔐 **Zero data stored. Zero server calls. 100% private.**
 
 </div>
